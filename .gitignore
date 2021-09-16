@@ -1,4 +1,8 @@
-.aws
+.aws/credentials
+.aws/testethnew.pem
 .terraform
 .terraform.lock.hcl
 terraformss.tfstate
+Final
+tent2
+TentativaMaster
